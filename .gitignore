@@ -1,0 +1,4 @@
+__pycache__
+manifests/secrets.yml
+manifests/configmap.yml
+.env

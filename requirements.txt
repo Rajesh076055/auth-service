@@ -1,0 +1,6 @@
+fastapi==0.109.2
+PyJWT==2.8.0
+python-dotenv==1.0.1
+SQLAlchemy==2.0.26
+strawberry-graphql==0.219.2
+uvicorn==0.27.1
